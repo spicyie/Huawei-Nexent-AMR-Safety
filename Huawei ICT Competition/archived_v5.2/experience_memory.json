@@ -1,0 +1,372 @@
+PS C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code> & C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/ASUS/Documents/DUT/Huawei ICT Competition/simulation.py"
+--- RUNNING REGRESSION TESTS ---
+✅ All regression tests passed. Physics engine verified.
+--------------------------------
+
+--- PHASE 1: BASELINE ---
+  [Step] Dist: 18.00m | Req: 2.77m | Speed: 2.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.59m | Req: 3.00m | Speed: 2.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.16m | Req: 3.24m | Speed: 2.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 16.71m | Req: 3.48m | Speed: 2.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.27m | Req: 3.00m | Speed: 2.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.87m | Req: 2.56m | Speed: 1.90 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.48m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.10m | Req: 2.36m | Speed: 1.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.76m | Req: 1.98m | Speed: 1.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.46m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.20m | Req: 1.34m | Speed: 1.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.95m | Req: 1.48m | Speed: 1.30 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.68m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.42m | Req: 1.34m | Speed: 1.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.20m | Req: 1.08m | Speed: 1.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.99m | Req: 1.20m | Speed: 1.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.79m | Req: 0.96m | Speed: 0.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.63m | Req: 0.76m | Speed: 0.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.51m | Req: 0.60m | Speed: 0.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.43m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.39m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.36m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.31m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.27m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.24m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.19m | Req: 0.56m | Speed: 0.30 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 12.13m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.09m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.09m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.08m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.08m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.07m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.04m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.99m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.95m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.95m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.94m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 11.92m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.89m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.87m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.86m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.83m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.81m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.80m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.80m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.79m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.76m | Req: 0.54m | Speed: 0.20 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 11.72m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.70m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 11.69m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+
+[BASELINE] Run 01 | Event: SAFE_PASS            | Entry: 0.00
+  Rationale: current speed (0.1 m/s) is below the speed limit (0.5 m/s), and the distance to the zone (11.69 m) requires deceleration to ensure safety
+  [Step] Dist: 18.00m | Req: 2.77m | Speed: 2.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.59m | Req: 3.00m | Speed: 2.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.16m | Req: 3.24m | Speed: 2.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.74m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.36m | Req: 2.36m | Speed: 1.80 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.99m | Req: 2.56m | Speed: 1.90 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.60m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.22m | Req: 2.36m | Speed: 1.80 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.85m | Req: 2.56m | Speed: 1.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.49m | Req: 2.16m | Speed: 1.70 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.14m | Req: 2.36m | Speed: 1.80 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.77m | Req: 2.56m | Speed: 1.90 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.38m | Req: 2.78m | Speed: 2.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.97m | Req: 3.00m | Speed: 2.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.57m | Req: 2.56m | Speed: 1.90 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 12.19m | Req: 2.56m | Speed: 1.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.83m | Req: 2.16m | Speed: 1.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.51m | Req: 1.80m | Speed: 1.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 11.23m | Req: 1.48m | Speed: 1.30 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 10.96m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 10.70m | Req: 1.34m | Speed: 1.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 10.45m | Req: 1.48m | Speed: 1.30 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 10.18m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  9.92m | Req: 1.34m | Speed: 1.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  9.70m | Req: 1.08m | Speed: 1.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  9.49m | Req: 1.20m | Speed: 1.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  9.29m | Req: 0.96m | Speed: 0.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  9.13m | Req: 0.76m | Speed: 0.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  9.01m | Req: 0.60m | Speed: 0.50 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.90m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.80m | Req: 0.58m | Speed: 0.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.74m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.69m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.65m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.65m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.64m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.64m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.63m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.60m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.58m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist:  8.57m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist:  8.55m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.52m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.50m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.49m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.49m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.48m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.48m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist:  8.47m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist:  8.47m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+
+[BASELINE] Run 02 | Event: SAFE_PASS            | Entry: 0.10
+  Rationale: speed is 0.00 m/s, distance to zone is 8.47 m, need to accelerate to reach speed limit 0.5 m/s before zone
+
+--- PHASE 2: EVOLVED ---
+  [Step] Dist: 18.00m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 17.62m | Req: 2.36m | Speed: 1.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 17.28m | Req: 1.98m | Speed: 1.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.98m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.72m | Req: 1.34m | Speed: 1.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 16.47m | Req: 1.48m | Speed: 1.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.23m | Req: 1.20m | Speed: 1.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 16.00m | Req: 1.34m | Speed: 1.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.78m | Req: 1.08m | Speed: 1.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.60m | Req: 0.86m | Speed: 0.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.46m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.36m | Req: 0.58m | Speed: 0.40 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.27m | Req: 0.60m | Speed: 0.50 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.16m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.06m | Req: 0.58m | Speed: 0.40 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.97m | Req: 0.60m | Speed: 0.50 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.86m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.76m | Req: 0.58m | Speed: 0.40 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.67m | Req: 0.60m | Speed: 0.50 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.56m | Req: 0.68m | Speed: 0.60 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.44m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.34m | Req: 0.58m | Speed: 0.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.28m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.26m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.25m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.25m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 14.24m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.24m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.23m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.23m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.22m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.19m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.14m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.10m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.07m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.05m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.04m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.04m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.03m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.00m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.95m | Req: 0.56m | Speed: 0.30 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.89m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.85m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.85m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.84m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.81m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.79m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.78m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.78m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.77m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+
+[EVOLVED] Run 03 | Event: SAFE_PASS            | Entry: 0.00
+  Rationale: Current speed (0.10 m/s) is below the speed limit (0.5 m/s), and the distance to the zone (13.77 m) requires deceleration to ensure safety
+  [Step] Dist: 18.00m | Req: 2.77m | Speed: 2.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.59m | Req: 3.00m | Speed: 2.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 17.16m | Req: 3.24m | Speed: 2.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.74m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.36m | Req: 2.36m | Speed: 1.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.02m | Req: 1.98m | Speed: 1.60 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.69m | Req: 2.16m | Speed: 1.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.37m | Req: 1.80m | Speed: 1.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.09m | Req: 1.48m | Speed: 1.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.85m | Req: 1.20m | Speed: 1.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.65m | Req: 0.96m | Speed: 0.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.49m | Req: 0.76m | Speed: 0.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.37m | Req: 0.60m | Speed: 0.50 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.27m | Req: 0.60m | Speed: 0.50 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.16m | Req: 0.68m | Speed: 0.60 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.03m | Req: 0.76m | Speed: 0.70 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.89m | Req: 0.76m | Speed: 0.70 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.77m | Req: 0.60m | Speed: 0.50 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.67m | Req: 0.60m | Speed: 0.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.59m | Req: 0.56m | Speed: 0.30 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.52m | Req: 0.58m | Speed: 0.40 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.43m | Req: 0.60m | Speed: 0.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.35m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.31m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.31m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 13.30m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.30m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.29m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.26m | Req: 0.54m | Speed: 0.20 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.21m | Req: 0.56m | Speed: 0.30 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.17m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.15m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.12m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.10m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.09m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.09m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.08m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.08m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.07m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.04m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.02m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 13.01m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 12.99m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.99m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.98m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.98m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.97m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.97m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 12.96m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 12.96m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+
+[EVOLVED] Run 04 | Event: SAFETY_INTERVENTION  | Entry: 0.10
+  Rationale: Speed is 0.00 m/s and must decelerate to 0.5 m/s, with a maximum deceleration of 1.0 m/s^2 to safely stop before reaching the zone.
+  └── OVERRIDE: Anti-stall forced acceleration.
+  [Step] Dist: 18.00m | Req: 2.77m | Speed: 2.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 17.62m | Req: 2.36m | Speed: 1.80 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 17.26m | Req: 2.36m | Speed: 1.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.92m | Req: 1.98m | Speed: 1.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.62m | Req: 1.64m | Speed: 1.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.36m | Req: 1.34m | Speed: 1.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 16.14m | Req: 1.08m | Speed: 1.00 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.96m | Req: 0.86m | Speed: 0.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 15.82m | Req: 0.68m | Speed: 0.60 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.69m | Req: 0.76m | Speed: 0.70 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 15.55m | Req: 0.76m | Speed: 0.70 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 15.41m | Req: 0.76m | Speed: 0.70 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.26m | Req: 0.86m | Speed: 0.80 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 15.09m | Req: 0.96m | Speed: 0.90 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.93m | Req: 0.76m | Speed: 0.70 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.78m | Req: 0.86m | Speed: 0.80 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.64m | Req: 0.68m | Speed: 0.60 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.54m | Req: 0.58m | Speed: 0.40 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.45m | Req: 0.60m | Speed: 0.50 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.37m | Req: 0.56m | Speed: 0.30 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.30m | Req: 0.58m | Speed: 0.40 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.24m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.22m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 14.21m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.19m | Req: 0.52m | Speed: 0.10 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.16m | Req: 0.54m | Speed: 0.20 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.12m | Req: 0.54m | Speed: 0.20 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.10m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.09m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.09m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 14.08m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.06m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 14.04m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.04m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.03m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.03m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 14.02m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.02m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 14.01m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.01m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 14.00m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 14.00m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.99m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.99m | Req: 0.50m | Speed: 0.00 | LLM: DECELERATE | Exec: ACCELERATE
+  [Step] Dist: 13.98m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.96m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.96m | Req: 0.50m | Speed: 0.00 | LLM: MAINTAIN   | Exec: ACCELERATE
+  [Step] Dist: 13.95m | Req: 0.52m | Speed: 0.10 | LLM: MAINTAIN   | Exec: MAINTAIN  
+  [Step] Dist: 13.93m | Req: 0.52m | Speed: 0.10 | LLM: DECELERATE | Exec: DECELERATE
+  [Step] Dist: 13.93m | Req: 0.50m | Speed: 0.00 | LLM: ACCELERATE | Exec: ACCELERATE
+
+[EVOLVED] Run 05 | Event: SAFE_PASS            | Entry: 0.10
+  Rationale: The speed limit is 0.5 m/s, but the current speed is 0.00 m/s, so accelerating is the only option to reach the speed limit.
+
+
+--- FULL JSON LOGS FOR CO-ARCHITECT ---
+[
+    {
+        "run_id": 1,
+        "scenario_id": "high_speed_zone_approach",
+        "controller_version": "v5.2",
+        "mode": "BASELINE",
+        "retrieved_lesson_ids": [],
+        "lesson_text_injected": "",
+        "proposed_action": "decelerate",
+        "rationale": "current speed (0.1 m/s) is below the speed limit (0.5 m/s), and the distance to the zone (11.69 m) requires deceleration to ensure safety",
+        "lesson_cited_in_rationale": false,
+        "executed_action": "decelerate",
+        "override_reason": null,
+        "failure_class": "NONE",
+        "safety_outcome": "PASS",
+        "event_type": "SAFE_PASS",
+        "learning_outcome": "Baseline",
+        "entry_speed_mps": 0.0
+    },
+    {
+        "run_id": 2,
+        "scenario_id": "high_speed_zone_approach",
+        "controller_version": "v5.2",
+        "mode": "BASELINE",
+        "retrieved_lesson_ids": [],
+        "lesson_text_injected": "",
+        "proposed_action": "accelerate",
+        "rationale": "speed is 0.00 m/s, distance to zone is 8.47 m, need to accelerate to reach speed limit 0.5 m/s before zone",
+        "lesson_cited_in_rationale": false,
+        "executed_action": "accelerate",
+        "override_reason": null,
+        "failure_class": "NONE",
+        "safety_outcome": "PASS",
+        "event_type": "SAFE_PASS",
+        "learning_outcome": "Baseline",
+        "entry_speed_mps": 0.1
+    },
+    {
+        "run_id": 3,
+        "scenario_id": "high_speed_zone_approach",
+        "controller_version": "v5.2",
+        "mode": "EVOLVED",
+        "retrieved_lesson_ids": [],
+        "lesson_text_injected": "No validated experience available.",
+        "proposed_action": "decelerate",
+        "rationale": "Current speed (0.10 m/s) is below the speed limit (0.5 m/s), and the distance to the zone (13.77 m) requires deceleration to ensure safety",
+        "lesson_cited_in_rationale": false,
+        "executed_action": "decelerate",
+        "override_reason": null,
+        "failure_class": "NONE",
+        "safety_outcome": "PASS",
+        "event_type": "SAFE_PASS",
+        "learning_outcome": "Adapted",
+        "entry_speed_mps": 0.0
+    },
+    {
+        "run_id": 4,
+        "scenario_id": "high_speed_zone_approach",
+        "controller_version": "v5.2",
+        "mode": "EVOLVED",
+        "retrieved_lesson_ids": [],
+        "lesson_text_injected": "No validated experience available.",
+        "proposed_action": "decelerate",
+        "rationale": "Speed is 0.00 m/s and must decelerate to 0.5 m/s, with a maximum deceleration of 1.0 m/s^2 to safely stop before reaching the zone.",
+        "lesson_cited_in_rationale": false,
+        "executed_action": "accelerate",
+        "override_reason": "OVERRIDE: Anti-stall forced acceleration.",
+        "failure_class": "LLM_LATE_BRAKING",
+        "safety_outcome": "PASS",
+        "event_type": "SAFETY_INTERVENTION",
+        "learning_outcome": "Adapted",
+        "entry_speed_mps": 0.1
+    },
+    {
+        "run_id": 5,
+        "scenario_id": "high_speed_zone_approach",
+        "controller_version": "v5.2",
+        "mode": "EVOLVED",
+        "retrieved_lesson_ids": [
+            "L_4"
+        ],
+        "lesson_text_injected": "VALIDATED LESSONS:\n- At speeds up to 2.2 m/s, begin decelerating when distance <= 3.24m.",
+        "proposed_action": "accelerate",
+        "rationale": "The speed limit is 0.5 m/s, but the current speed is 0.00 m/s, so accelerating is the only option to reach the speed limit.",
+        "lesson_cited_in_rationale": true,
+        "executed_action": "accelerate",
+        "override_reason": null,
+        "failure_class": "NONE",
+        "safety_outcome": "PASS",
+        "event_type": "SAFE_PASS",
+        "learning_outcome": "Failed to Adapt",
+        "entry_speed_mps": 0.1
+    }
+]
+PS C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code>

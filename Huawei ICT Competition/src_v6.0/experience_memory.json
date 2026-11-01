@@ -1,0 +1,125 @@
+PS C:\Users\ASUS\Documents\DUT\Huawei ICT Competition\src_v6.0> & C:\Users\ASUS\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/ASUS/Documents/DUT/Huawei ICT Competition/src_v6.0/hierarchical_sim.py"
+--- STARTING v6.0 HIERARCHICAL SIMULATION ---
+    [LLM Thought] Dist: 18.0m <= Req: 2.77m? -> Selected: NORMAL_MODE
+[Step 00] Dist: 18.00m | Mode: NORMAL_MODE        | Speed: 2.00 | Accel: 0.00 
+    [LLM Thought] Dist: 17.6m <= Req: 2.77m? -> Selected: SAFE_APPROACH_MODE
+[Step 01] Dist: 17.60m | Mode: SAFE_APPROACH_MODE | Speed: 2.00 | Accel: -1.00 
+    [LLM Thought] Dist: 17.2m <= Req: 2.36m? -> Selected: NORMAL_MODE
+[Step 02] Dist: 17.22m | Mode: NORMAL_MODE        | Speed: 1.80 | Accel: 0.20 
+    [LLM Thought] Dist: 16.9m <= Req: 2.44m? -> Selected: NORMAL_MODE
+[Step 03] Dist: 16.86m | Mode: NORMAL_MODE        | Speed: 1.84 | Accel: 0.16 
+    [LLM Thought] Dist: 16.5m <= Req: 2.50m? -> Selected: NORMAL_MODE
+[Step 04] Dist: 16.48m | Mode: NORMAL_MODE        | Speed: 1.87 | Accel: 0.13 
+    [LLM Thought] Dist: 16.1m <= Req: 2.55m? -> Selected: NORMAL_MODE
+[Step 05] Dist: 16.11m | Mode: NORMAL_MODE        | Speed: 1.90 | Accel: 0.10 
+    [LLM Thought] Dist: 15.7m <= Req: 2.60m? -> Selected: NORMAL_MODE
+[Step 06] Dist: 15.73m | Mode: NORMAL_MODE        | Speed: 1.92 | Accel: 0.08 
+    [LLM Thought] Dist: 15.3m <= Req: 2.63m? -> Selected: NORMAL_MODE
+[Step 07] Dist: 15.34m | Mode: NORMAL_MODE        | Speed: 1.93 | Accel: 0.07 
+    [LLM Thought] Dist: 15.0m <= Req: 2.66m? -> Selected: NORMAL_MODE
+[Step 08] Dist: 14.95m | Mode: NORMAL_MODE        | Speed: 1.95 | Accel: 0.05 
+    [LLM Thought] Dist: 14.6m <= Req: 2.68m? -> Selected: NORMAL_MODE
+[Step 09] Dist: 14.56m | Mode: NORMAL_MODE        | Speed: 1.96 | Accel: 0.00 
+    [LLM Thought] Dist: 14.2m <= Req: 2.68m? -> Selected: NORMAL_MODE
+[Step 10] Dist: 14.17m | Mode: NORMAL_MODE        | Speed: 1.96 | Accel: 0.00 
+    [LLM Thought] Dist: 13.8m <= Req: 2.68m? -> Selected: NORMAL_MODE
+[Step 11] Dist: 13.78m | Mode: NORMAL_MODE        | Speed: 1.96 | Accel: 0.00 
+    [LLM Thought] Dist: 13.4m <= Req: 2.68m? -> Selected: SAFE_APPROACH_MODE
+[Step 12] Dist: 13.39m | Mode: SAFE_APPROACH_MODE | Speed: 1.96 | Accel: -1.00 
+    [LLM Thought] Dist: 13.0m <= Req: 2.27m? -> Selected: NORMAL_MODE
+[Step 13] Dist: 13.02m | Mode: NORMAL_MODE        | Speed: 1.76 | Accel: 0.24 
+    [LLM Thought] Dist: 12.7m <= Req: 2.37m? -> Selected: NORMAL_MODE
+[Step 14] Dist: 12.66m | Mode: NORMAL_MODE        | Speed: 1.81 | Accel: 0.19 
+    [LLM Thought] Dist: 12.3m <= Req: 2.45m? -> Selected: NORMAL_MODE
+[Step 15] Dist: 12.29m | Mode: NORMAL_MODE        | Speed: 1.85 | Accel: 0.15 
+    [LLM Thought] Dist: 11.9m <= Req: 2.51m? -> Selected: SAFE_APPROACH_MODE
+[Step 16] Dist: 11.92m | Mode: SAFE_APPROACH_MODE | Speed: 1.88 | Accel: -1.00 
+    [LLM Thought] Dist: 11.6m <= Req: 2.11m? -> Selected: NORMAL_MODE
+[Step 17] Dist: 11.57m | Mode: NORMAL_MODE        | Speed: 1.68 | Accel: 0.32 
+    [LLM Thought] Dist: 11.2m <= Req: 2.24m? -> Selected: SAFE_APPROACH_MODE
+[Step 18] Dist: 11.23m | Mode: SAFE_APPROACH_MODE | Speed: 1.74 | Accel: -1.00 
+    [LLM Thought] Dist: 10.9m <= Req: 1.87m? -> Selected: NORMAL_MODE
+[Step 19] Dist: 10.90m | Mode: NORMAL_MODE        | Speed: 1.54 | Accel: 0.46 
+    [LLM Thought] Dist: 10.6m <= Req: 2.03m? -> Selected: SAFE_APPROACH_MODE
+[Step 20] Dist: 10.58m | Mode: SAFE_APPROACH_MODE | Speed: 1.63 | Accel: -1.00 
+    [LLM Thought] Dist: 10.3m <= Req: 1.69m? -> Selected: NORMAL_MODE
+[Step 21] Dist: 10.27m | Mode: NORMAL_MODE        | Speed: 1.43 | Accel: 0.50 
+    [LLM Thought] Dist: 10.0m <= Req: 1.86m? -> Selected: NORMAL_MODE
+[Step 22] Dist:  9.98m | Mode: NORMAL_MODE        | Speed: 1.53 | Accel: 0.47 
+    [LLM Thought] Dist: 9.7m <= Req: 2.02m? -> Selected: SAFE_APPROACH_MODE
+[Step 23] Dist:  9.66m | Mode: SAFE_APPROACH_MODE | Speed: 1.63 | Accel: -1.00 
+    [LLM Thought] Dist: 9.4m <= Req: 1.68m? -> Selected: NORMAL_MODE
+[Step 24] Dist:  9.36m | Mode: NORMAL_MODE        | Speed: 1.43 | Accel: 0.50 
+    [LLM Thought] Dist: 9.1m <= Req: 1.84m? -> Selected: NORMAL_MODE
+[Step 25] Dist:  9.06m | Mode: NORMAL_MODE        | Speed: 1.53 | Accel: 0.47 
+    [LLM Thought] Dist: 8.7m <= Req: 2.01m? -> Selected: NORMAL_MODE
+[Step 26] Dist:  8.75m | Mode: NORMAL_MODE        | Speed: 1.62 | Accel: 0.38 
+    [LLM Thought] Dist: 8.4m <= Req: 2.15m? -> Selected: NORMAL_MODE
+[Step 27] Dist:  8.41m | Mode: NORMAL_MODE        | Speed: 1.70 | Accel: 0.30 
+    [LLM Thought] Dist: 8.1m <= Req: 2.27m? -> Selected: SAFE_APPROACH_MODE
+[Step 28] Dist:  8.07m | Mode: SAFE_APPROACH_MODE | Speed: 1.76 | Accel: -1.00 
+    [LLM Thought] Dist: 7.7m <= Req: 1.90m? -> Selected: NORMAL_MODE
+[Step 29] Dist:  7.74m | Mode: NORMAL_MODE        | Speed: 1.56 | Accel: 0.44 
+    [LLM Thought] Dist: 7.4m <= Req: 2.06m? -> Selected: SAFE_APPROACH_MODE
+[Step 30] Dist:  7.42m | Mode: SAFE_APPROACH_MODE | Speed: 1.65 | Accel: -1.00 
+    [LLM Thought] Dist: 7.1m <= Req: 1.71m? -> Selected: NORMAL_MODE
+[Step 31] Dist:  7.11m | Mode: NORMAL_MODE        | Speed: 1.45 | Accel: 0.50 
+    [LLM Thought] Dist: 6.8m <= Req: 1.88m? -> Selected: NORMAL_MODE
+[Step 32] Dist:  6.81m | Mode: NORMAL_MODE        | Speed: 1.55 | Accel: 0.45 
+    [LLM Thought] Dist: 6.5m <= Req: 2.04m? -> Selected: SAFE_APPROACH_MODE
+[Step 33] Dist:  6.49m | Mode: SAFE_APPROACH_MODE | Speed: 1.64 | Accel: -1.00 
+    [LLM Thought] Dist: 6.2m <= Req: 1.69m? -> Selected: SAFE_APPROACH_MODE
+[Step 34] Dist:  6.18m | Mode: SAFE_APPROACH_MODE | Speed: 1.44 | Accel: -0.94 
+    [LLM Thought] Dist: 5.9m <= Req: 1.41m? -> Selected: NORMAL_MODE
+[Step 35] Dist:  5.91m | Mode: NORMAL_MODE        | Speed: 1.25 | Accel: 0.50 
+    [LLM Thought] Dist: 5.7m <= Req: 1.56m? -> Selected: NORMAL_MODE
+[Step 36] Dist:  5.65m | Mode: NORMAL_MODE        | Speed: 1.35 | Accel: 0.50 
+    [LLM Thought] Dist: 5.4m <= Req: 1.72m? -> Selected: NORMAL_MODE
+[Step 37] Dist:  5.37m | Mode: NORMAL_MODE        | Speed: 1.45 | Accel: 0.50 
+    [LLM Thought] Dist: 5.1m <= Req: 1.89m? -> Selected: NORMAL_MODE
+[Step 38] Dist:  5.07m | Mode: NORMAL_MODE        | Speed: 1.55 | Accel: 0.45 
+    [LLM Thought] Dist: 4.8m <= Req: 2.05m? -> Selected: SAFE_APPROACH_MODE
+[Step 39] Dist:  4.76m | Mode: SAFE_APPROACH_MODE | Speed: 1.64 | Accel: -1.00 
+    [LLM Thought] Dist: 4.4m <= Req: 1.70m? -> Selected: NORMAL_MODE
+[Step 40] Dist:  4.45m | Mode: NORMAL_MODE        | Speed: 1.44 | Accel: 0.50 
+    [LLM Thought] Dist: 4.1m <= Req: 1.87m? -> Selected: NORMAL_MODE
+[Step 41] Dist:  4.15m | Mode: NORMAL_MODE        | Speed: 1.54 | Accel: 0.46 
+    [LLM Thought] Dist: 3.8m <= Req: 2.03m? -> Selected: SAFE_APPROACH_MODE
+[Step 42] Dist:  3.83m | Mode: SAFE_APPROACH_MODE | Speed: 1.63 | Accel: -1.00 
+    [LLM Thought] Dist: 3.5m <= Req: 1.69m? -> Selected: NORMAL_MODE
+[Step 43] Dist:  3.53m | Mode: NORMAL_MODE        | Speed: 1.43 | Accel: 0.50 
+    [LLM Thought] Dist: 3.2m <= Req: 1.85m? -> Selected: NORMAL_MODE
+[Step 44] Dist:  3.23m | Mode: NORMAL_MODE        | Speed: 1.53 | Accel: 0.47 
+    [LLM Thought] Dist: 2.9m <= Req: 2.02m? -> Selected: NORMAL_MODE
+[Step 45] Dist:  2.91m | Mode: NORMAL_MODE        | Speed: 1.63 | Accel: 0.37 
+    [LLM Thought] Dist: 2.6m <= Req: 2.16m? -> Selected: NORMAL_MODE
+[Step 46] Dist:  2.58m | Mode: NORMAL_MODE        | Speed: 1.70 | Accel: 0.30 
+    [LLM Thought] Dist: 2.2m <= Req: 2.28m? -> Selected: NORMAL_MODE
+[Step 47] Dist:  2.24m | Mode: NORMAL_MODE        | Speed: 1.76 | Accel: -1.00 OVERRIDE: Emergency braking (Inside danger zone).
+    [LLM Thought] Dist: 1.9m <= Req: 1.90m? -> Selected: SAFE_APPROACH_MODE
+[Step 48] Dist:  1.90m | Mode: SAFE_APPROACH_MODE | Speed: 1.56 | Accel: -1.00 
+    [LLM Thought] Dist: 1.6m <= Req: 1.57m? -> Selected: NORMAL_MODE
+[Step 49] Dist:  1.61m | Mode: NORMAL_MODE        | Speed: 1.36 | Accel: 0.50 
+    [LLM Thought] Dist: 1.3m <= Req: 1.73m? -> Selected: SAFE_APPROACH_MODE
+[Step 50] Dist:  1.33m | Mode: SAFE_APPROACH_MODE | Speed: 1.46 | Accel: -0.96 
+    [LLM Thought] Dist: 1.1m <= Req: 1.43m? -> Selected: SAFE_APPROACH_MODE
+[Step 51] Dist:  1.06m | Mode: SAFE_APPROACH_MODE | Speed: 1.27 | Accel: -0.77 
+    [LLM Thought] Dist: 0.8m <= Req: 1.22m? -> Selected: SAFE_APPROACH_MODE
+[Step 52] Dist:  0.82m | Mode: SAFE_APPROACH_MODE | Speed: 1.11 | Accel: -0.61 
+    [LLM Thought] Dist: 0.6m <= Req: 1.06m? -> Selected: SAFE_APPROACH_MODE
+[Step 53] Dist:  0.61m | Mode: SAFE_APPROACH_MODE | Speed: 0.99 | Accel: -0.49 
+    [LLM Thought] Dist: 0.4m <= Req: 0.95m? -> Selected: SAFE_APPROACH_MODE
+[Step 54] Dist:  0.42m | Mode: SAFE_APPROACH_MODE | Speed: 0.89 | Accel: -0.39 
+    [LLM Thought] Dist: 0.2m <= Req: 0.87m? -> Selected: NORMAL_MODE
+[Step 55] Dist:  0.25m | Mode: NORMAL_MODE        | Speed: 0.81 | Accel: -1.00 OVERRIDE: Emergency braking (Inside danger zone).
+    [LLM Thought] Dist: 0.1m <= Req: 0.69m? -> Selected: NORMAL_MODE
+[Step 56] Dist:  0.11m | Mode: NORMAL_MODE        | Speed: 0.61 | Accel: -1.00 OVERRIDE: Emergency braking (Inside danger zone).
+    [LLM Thought] Dist: 0.0m <= Req: 0.50m? -> Selected: NORMAL_MODE
+[Step 57] Dist:  0.00m | Mode: NORMAL_MODE        | Speed: 0.41 | Accel: -1.00 OVERRIDE: Emergency braking (Inside danger zone).
+
+--- SIMULATION COMPLETE ---
+Result: PASS ✅ (Crossed boundary safely)
+Final Position: 11.94m (Boundary: 12.0m)
+Final Speed: 0.21 m/s
+Total Steps: 58 (Time: 11.6s)
+PS C:\Users\ASUS\Documents\DUT\Huawei ICT Competition\src_v6.0> 
